@@ -1,4 +1,4 @@
-## Hi there 👋
+## Electronics projects and other tech related things
 
 <!--
 **SeansElectronics/SeansElectronics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
